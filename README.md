@@ -5,7 +5,7 @@
 
 ### Links to:
 #### Initialize a new project and install nodemon
-  + GH repo: *https://github.com/CreativeNana/npm_activity/tree/main/hello-npm*
+  + GH repo: *https://github.com/CreativeNana/hello-npm*
 
 ### Comments: 
   + Install NPM and Add NPM modules
